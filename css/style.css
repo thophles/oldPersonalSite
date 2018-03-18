@@ -60,3 +60,8 @@ html, body {
 	left: 5%;
 	top: 23px;
 }
+@media (max-width: 440px) {
+	.aboutMenuIcon {
+		left: 86%;
+	}
+}

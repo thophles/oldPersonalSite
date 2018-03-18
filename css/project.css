@@ -133,12 +133,8 @@ footer {
 	width: 100%;
 	text-align: center;
 }
-.footLinks {
-	padding-right: 5%;
-}
-.footLinks li {
-	display: inline;
-	padding: 0 3%;
+.footlinks {
+	margin: 0 auto;
 }
 .footLinks a {
 	font-weight: 700;
@@ -150,31 +146,8 @@ footer {
 	html {
 		overflow-x: hidden;
 	}
-	.handPhoto {
-		padding-top: 15%;
-	}
 	.aboutMenuIcon {
 		left: 85%;
-	}
-	.still, .still2 {
-		width: 80%;
-		height: 200px;
-	}
-	.still5, .still7 {
-		width: 80%;
-		height: 300px;
-	}
-	.still6 {
-		width: 80%;
-		height: 400px;
-	}
-	.still8 {
-		width: 80%;
-		height: 150px;
-	}
-	.still9 {
-		width: 80%;
-		height: 400px;
 	}
 	.footLinks {
 		width: 100%;
@@ -183,9 +156,6 @@ footer {
 	.footLinks li {
 		display: block;
 		padding: 2% 0;
-	}
-	.footLinks a {
-		color: #fff;
 	}
 	.git img {
 		width: 15%;
@@ -225,8 +195,21 @@ footer {
 		width: 100%;
 		text-align: center;
 	}
-	.footLinks li {
-		display: block;
-		padding: 2% 0;
+	.imageText h2 {
+		text-align: left;
+    padding: 0% 10%;
+	}
+	.imageText2 h2 {
+		text-align: left;
+		padding: 0% 10%;
+	}
+	.imageText p {
+		text-align: left;
+	  padding: 0% 10%;
+	}
+	.imageText2 p {
+		text-align: left;
+		padding: 0% 10%;
+
 	}
 }

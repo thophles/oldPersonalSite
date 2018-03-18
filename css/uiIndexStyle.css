@@ -70,17 +70,10 @@ p {
 	top: 23px;
 }
 @media (max-width: 420px) {
-		.footLinks {
-		width: 100%;
-		text-align: center;
-	}
-	.footLinks li {
-		display: block;
-		padding: 2% 0;
-	}
-	.footLinks a {
-		color: #fff;
-	}
+		.aboutMenuIcon {
+			left: 86%;
+		}
+	
 }
 @media (max-width: 800px) {
 	.aboutMenuIcon {
@@ -99,5 +92,11 @@ p {
 	}
 	.footLinks a {
 		color: #fff;
+	}
+	.col-sm-4 {
+		padding-top: 2%;
+	}
+	.overlay {
+		opacity: 1;
 	}
 }
