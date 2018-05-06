@@ -56,6 +56,15 @@ body {
 	position: absolute;
 	bottom: 5%;
 }
+.resume {
+	padding-right: 2%;
+}
+.resume a, .resume a:visited, .resume a:hover {
+	position: absolute;
+	bottom: 10%;
+	text-decoration: none;
+	color: #000;
+}
 @media (max-width: 850px) {
 	html {
 		overflow-y: hidden;
